@@ -1,0 +1,14 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <string name="app_name">PathfinderInitiative</string>
+    <string name="title_activity_main">MainActivity</string>
+    <string name="hello_world">Hello world!</string>
+    <string name="action_settings">Settings</string>
+    <string name="edit_message_name">Enter name</string>
+    <string name="button_send">Add to Party</string>
+    <string name="edit_message_init_bonus">Init</string>
+    <string name="edit_message_dex_bonus">Dex</string>
+    <string name="edit_message_int_bonus">Int</string>
+    <string name="edit_message_wis_bonus">Wis</string>
+</resources>
